@@ -1,4 +1,27 @@
-pandas
-matplotlib
-numpy
-scikit-learn
+# Core data analysis packages
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+scikit-learn>=1.2.0
+
+# Data visualization enhancements
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Optional - for advanced visualizations
+plotly>=5.13.0
+
+# File handling and path management
+pathlib>=1.0.1
+
+# Argument parsing (used in team_performance_analysis.py)
+argparse>=1.4.0
+
+# Version control
+# These versions are chosen for stability and compatibility
+# Adjust based on your specific needs
